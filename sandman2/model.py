@@ -33,7 +33,6 @@ class Model(object):
         'PATCH',
         'DELETE',
         'HEAD',
-        'OPTIONS'
         }
 
     @classmethod
